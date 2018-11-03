@@ -1,6 +1,6 @@
 ---
 name: Other issue
-about: Describe your issue here.
+about: Describe your issue.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Please start the title with [BUG]
+about: Please start the title with [BUG].
 
 ---
 

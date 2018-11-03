@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: 'Please start your title with one of the following: [Feature], [Plugin], [Mechanic]'
+about: 'Please start your title with one of the following: [Feature], [Plugin], [Mechanic].'
 
 ---
 
