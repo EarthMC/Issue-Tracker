@@ -1,7 +1,8 @@
 ---
 name: World Issue
 about: Please start your title with [World].
-
+title: '[World] '
+labels: 'Issue type: World'
 ---
 
 **Describe the issue**
