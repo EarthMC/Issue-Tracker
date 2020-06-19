@@ -1,7 +1,8 @@
 ---
 name: Bug report
 about: Please start the title with [BUG].
-
+title: '[BUG]'
+labels: 'Issue type: Bug'
 ---
 
 **Server**
