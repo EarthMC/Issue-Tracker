@@ -1,8 +1,9 @@
 ---
 name: World Issue
-about: Please start your title with [World].
-title: '[World] '
+about: Suggest an idea/edit for the world.
+title: '[World]'
 labels: 'Issue type: World'
+assignees: 'PoppyK'
 ---
 
 ### Describe the issue
