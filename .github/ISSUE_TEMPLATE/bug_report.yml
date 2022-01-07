@@ -3,10 +3,13 @@ description: Report a bug for the server.
 title: "[Bug]"
 labels: ["Issue type: Bug"]
 body:
-- type: input
+- type: dropdown
   attributes:
     label: Server
     description: "Which server the bug is on."
+    options:
+      - Towny
+      - Hub
   validations:
     required: true
 - type: textarea
