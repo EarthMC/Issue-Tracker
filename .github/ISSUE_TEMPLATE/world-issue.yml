@@ -1,0 +1,25 @@
+name: World Issue
+description: Suggest an idea/edit for the world.
+title: "[World]"
+labels: ["Issue type: World"]
+assignees: 
+  - PoppyK
+body:
+- type: textarea
+  attributes:
+    label: Describe the issue
+    description: "A clear and concise description of what the issue is."
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Coordinates
+    description: "X Y Z coordinates."
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Screenshots
+    description: "Please add screenshots to help explain your problem. They can be of both the emc map and of how you want the terrain to look."
+  validations:
+    required: true
