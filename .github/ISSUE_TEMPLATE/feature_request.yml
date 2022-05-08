@@ -4,6 +4,16 @@ body:
 - type: markdown
   attributes:
       value: "Please start your title with one of the following: [Feature], [Plugin], [Mechanic]."
+- type: dropdown
+  attributes:
+    label: Server
+    description: "Which server the feature request is on."
+    options:
+      - Nova
+      - Aurora
+      - Hub
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: Is your feature request related to a problem? Please describe.

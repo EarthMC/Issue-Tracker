@@ -5,6 +5,16 @@ labels: ["Issue type: World"]
 assignees: 
   - PoppyK
 body:
+- type: dropdown
+  attributes:
+    label: Server
+    description: "Which server the world issue is on."
+    options:
+      - Nova
+      - Aurora
+      - Hub
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: Describe the issue
