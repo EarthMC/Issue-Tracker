@@ -1,2 +1,23 @@
 name: Test
 description: Test the issue tracker to make sure it is working
+title: "[TEST]"
+body:
+ - type: input
+   attributes:
+    label: test
+ - type: textarea
+   attributes:
+    label: test
+ - type: dropdown
+   attributes:
+    label: test
+    options:
+      - 1
+      - 2
+      - 3
+ - type: checkboxes
+   attributes:
+    options:
+      - label: 1
+      - label: 2
+      - label: 3
