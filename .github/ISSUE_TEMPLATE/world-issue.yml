@@ -2,7 +2,6 @@ name: World Issue
 description: Suggest an idea/edit for the world.
 title: "[World]"
 labels: ["Issue type: World"]
-assignees:
 body:
 - type: textarea
   attributes:
