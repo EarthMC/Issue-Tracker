@@ -8,8 +8,7 @@ body:
     label: Server
     description: "Which server the bug is on."
     options:
-      - Nova
-      - Aurora
+      - Terra Aurora
       - Hub
   validations:
     required: true
