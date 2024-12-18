@@ -8,9 +8,9 @@ body:
     label: Server
     description: "Which server the bug is on."
     options:
-      - Nova
       - Aurora
       - Hub
+      - Other
   validations:
     required: true
 - type: textarea
